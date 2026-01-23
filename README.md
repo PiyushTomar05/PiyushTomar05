@@ -41,11 +41,11 @@
 
 | **Category** | **Technologies** |
 | :---: | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) |
-| **Tools & Hosting** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=flat-square&logo=sqlite&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Soft Skills** | ![Team Player](https://img.shields.io/badge/-Team%20Player-success?style=flat-square) ![Quick Learner](https://img.shields.io/badge/-Quick%20Learner-success?style=flat-square) ![Adaptability](https://img.shields.io/badge/-Adaptability-success?style=flat-square) |
 
 </div>
 
@@ -55,6 +55,7 @@
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
+| **🔹 Linkro – Recruitment Platform** | • Full-stack recruitment platform with role-based access<br>• JWT auth, separate dashboards, real-time tracking<br>• Modular RESTful APIs & job workflows | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **🔹 Personal Portfolio** | • Responsive portfolio showcasing **4+ projects**<br>• Improved performance by **25%**<br>• interactive galleries and contact forms | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) |
 | **🔹 Automatic Production Planner** | • Automated **80%** of manual scheduling tasks<br>• Real-time dashboard for **15–20 tasks**<br>• Reduced planning time by **40–50%** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
@@ -75,7 +76,15 @@
       <h3>🎓 Education</h3>
       <b>Bachelor of Technology – CSE</b><br>
       Lovely Professional University, Punjab<br>
-      📊 CGPA: <b>7.61</b> (2023 – Present)
+      📊 CGPA: <b>7.61</b> (2023 – Present)<br>
+      <br>
+      <b>Intermediate</b><br>
+      Kendriya Vidyalaya Morena, Madhya Pradesh<br>
+      📊 Percentage: <b>78%</b> (Apr '20 – Mar '22)<br>
+      <br>
+      <b>Secondary</b><br>
+      Shri Tek Chand Jain Higher Secondary School, Madhya Pradesh<br>
+      📊 Percentage: <b>89%</b> (Apr '18 – Mar '20)
     </td>
     <td align="left" width="50%">
       <h3>📜 Certifications</h3>
@@ -102,13 +111,6 @@
 
 <br>
 
-<div align="center">
-  <h3>🏆 Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PiyushTomar05&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-</div>
-
 ---
 
 <div align="center">
@@ -118,26 +120,5 @@
 
 <br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PiyushTomar05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=PiyushTomar05&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>## Hi there 👋
-
-<!--
-**PiyushTomar05/PiyushTomar05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
