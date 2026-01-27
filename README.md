@@ -16,8 +16,8 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushsinghtomar13)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushtomarp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushsinghtomar13)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushtomarp@gmail.com)
 
 </div>
 
@@ -25,11 +25,11 @@
 
 <div align="center">
   
-  🔭 currently working on **Full-Stack Web Development Projects**  
-  🌱 learning **Advanced React, Backend APIs & System Design**  
-  👯 open to collaborating on **Web Development & Open-Source Projects**  
-  💬 ask me about **C++, JavaScript, React, PHP, MySQL**  
-  ⚡ fun fact **I love solving DSA problems and optimizing application performance**
+🔭 currently working on **Full-Stack Web Development Projects**  
+🌱 learning **Advanced React, Backend APIs & System Design**  
+👯 open to collaborating on **Web Development & Open-Source Projects**  
+💬 ask me about **C++, JavaScript, React, PHP, MySQL**  
+⚡ fun fact **I love solving DSA problems and optimizing application performance**
 
 </div>
 
@@ -55,66 +55,67 @@
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **🔹 Linkro – Recruitment Platform** | • Full-stack recruitment platform with role-based access<br>• JWT auth, separate dashboards, real-time tracking<br>• Modular RESTful APIs & job workflows | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **🔹 Personal Portfolio** | • Responsive portfolio showcasing **4+ projects**<br>• Improved performance by **25%**<br>• interactive galleries and contact forms | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) |
-| **🔹 Automatic Production Planner** | • Automated **80%** of manual scheduling tasks<br>• Real-time dashboard for **15–20 tasks**<br>• Reduced planning time by **40–50%** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **🔹 Linkro – Recruitment Platform** | • Full-stack recruitment platform with role-based access<br>• JWT auth, separate dashboards, real-time tracking<br>• Modular RESTful APIs & job workflows | MongoDB · Express · React · Node · Tailwind |
+| **🔹 Personal Portfolio** | • Responsive portfolio showcasing **4+ projects**<br>• Improved performance by **25%**<br>• Interactive galleries and contact forms | React · CSS |
+| **🔹 Automatic Production Planner** | • Automated **80%** of manual scheduling tasks<br>• Real-time dashboard for **15–20 tasks**<br>• Reduced planning time by **40–50%** | PHP · MySQL |
 
 ---
 
 ## 🏆 Achievements
 
-- ⭐ Solved **100+ DSA problems** on LeetCode & GeeksforGeeks
-- ⭐ **4-Star Gold Badge** in C++, C & Python on HackerRank
+- ⭐ Solved **100+ DSA problems** on LeetCode & GeeksforGeeks  
+- ⭐ **4-Star Gold Badge** in C++, C & Python on HackerRank  
 
 ---
 
 ## 🎓 Education & Certifications
 
 <table align="center">
-  <tr>
-    <td align="left" width="50%">
-      <h3>🎓 Education</h3>
-      <b>Bachelor of Technology – CSE</b><br>
-      Lovely Professional University, Punjab<br>
-      📊 CGPA: <b>7.61</b> (2023 – Present)<br>
-      <br>
-      <b>Intermediate</b><br>
-      Kendriya Vidyalaya Morena, Madhya Pradesh<br>
-      📊 Percentage: <b>78%</b> (Apr '20 – Mar '22)<br>
-      <br>
-      <b>Secondary</b><br>
-      Shri Tek Chand Jain Higher Secondary School, Madhya Pradesh<br>
-      📊 Percentage: <b>89%</b> (Apr '18 – Mar '20)
-    </td>
-    <td align="left" width="50%">
-      <h3>📜 Certifications</h3>
-      • Master Generative AI & Tools – Infosys Springboard<br>
-      • Computational Theory – Infosys Springboard<br>
-      • Java & C++ Programming – IamNeo<br>
-      • Cloud Computing – NPTEL
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🎓 Education
+**B.Tech – Computer Science & Engineering**  
+Lovely Professional University, Punjab  
+📊 CGPA: **7.61** (2023 – Present)
+
+**Intermediate**  
+Kendriya Vidyalaya Morena, MP  
+📊 **78%**
+
+**Secondary**  
+Shri Tek Chand Jain HSS, MP  
+📊 **89%**
+
+</td>
+<td width="50%">
+
+### 📜 Certifications
+• Master Generative AI & Tools – Infosys Springboard  
+• Computational Theory – Infosys Springboard  
+• Java & C++ Programming – IamNeo  
+• Cloud Computing – NPTEL  
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushTomar05&theme=dark&hide_border=true&include_all_commits=true&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushTomar05&theme=dark&hide_border=true&layout=compact" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=PiyushTomar05&theme=dark&hide_border=true&show_icons=true" height="150" />
 
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushTomar05&theme=dark&hide_border=true" height="150" />
-
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushTomar05&theme=dark&hide_border=true&layout=compact" height="150" />
 
 <br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushTomar05&theme=github-dark&hide_border=true" />
+
+
+</div>
 
 ---
 
@@ -123,7 +124,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-
+📌 *Consistently pushing code and improving skills every day.*
 
 </div>
+
